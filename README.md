@@ -78,7 +78,7 @@ WebLogic Tengah - 1997年11月
 
 在了解了weblogic加密方式后，我们开始对其解密。
 
-文中涉及的所有工具和脚本都打包放在了gayhub上，方便大家下载
+文中涉及的所有工具和脚本都打包放在了github上，方便大家下载
 ```
 https://github.com/TideSec/Decrypt_Weblogic_Password
 ```
